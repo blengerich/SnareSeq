@@ -19,4 +19,4 @@ Originally from Chen et al 2019:
 
 Pre-processed by Michael Kleyman.
 
-Made avialable here for others to use if helpful.
+Made available here for others to use if helpful.
